@@ -6,5 +6,4 @@ services:
         ports:
             - "22"
         environment:
-            SSH_USER: user
             SSH_PASSWORD: password.2017
