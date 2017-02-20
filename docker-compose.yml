@@ -1,5 +1,7 @@
+version: '2'
+
 services:
-    db:
+    ssh:
         build: .
         ports:
-          - "22"
+            - "22"
