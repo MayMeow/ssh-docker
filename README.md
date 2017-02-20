@@ -39,7 +39,7 @@ If you want connect from internet you maybe nedd allow port connection in your f
 
 ```bash
 ssh root@your-server-ip -p 327447
-#enter your password
+# Enter your password
 root@dockercontainerid:/
 ```
 
