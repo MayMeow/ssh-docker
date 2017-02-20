@@ -1,5 +1,5 @@
 services:
     db:
-        build .
-    ports:
-      - "22"
+        build: .
+        ports:
+          - "22"
